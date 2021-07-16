@@ -1,0 +1,30 @@
+.digimon-container{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  border: 3px solid #EEF8FB;
+  border-radius: 8px;
+  &.champion{
+    border: 2px solid #FADF0B;
+    h2 {
+      color: #FADF0B;
+    }
+  }
+  &.ultimate {
+    border: 2px solid #9B0E27;
+    h2 {
+      color: #9B0E27;
+    }
+  }
+  img {
+    max-width:15rem;
+    background: transparent;
+  }
+  h1,h2 {
+    font-size:21px;
+    
+  }
+  h2 {
+    color:#84e0fc;
+  }
+}
