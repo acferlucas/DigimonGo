@@ -7,10 +7,10 @@ O projeto consiste em uma pagina que exibe ao usuário digimons encontrados pela
 
 ## Layout web
 
-![Web 1](https://github.com/acferlucas/DigimonGo/blob/master/public/web.png)
+![Web 1](https://github.com/acferlucas/DigimonGo/blob/master/public/web2.png)
 
 ## Search
-![Web 2](https://github.com/acferlucas/DigimonGo/blob/master/public/searchGo.png)
+![Web 2](https://github.com/acferlucas/DigimonGo/blob/master/public/search2.png)
 
 
 # Tecnologias utilizadas
